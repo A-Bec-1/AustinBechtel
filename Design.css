@@ -1,0 +1,71 @@
+
+.website-head{
+    background:rgba(1, 18, 26, 0.767)
+}
+.header{
+    font-family: "fs-sinclair", serif;
+    font-size:40pt;
+    margin:12px;
+    color:white
+}
+.vertical-list{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    background-color:rgb(1, 18, 26, 0.767);
+}
+body{
+
+    background-color:rgb(0, 5, 7);
+}
+div{
+	padding:10px;
+    border-color: rgb(90, 87, 87);
+    background:rgb(1, 18, 26, 0.767);
+}
+p, h2, h3,th,td{
+    color: white
+}
+.menu{
+    background:rgb(1,18,26, 0.767)
+}
+a:link{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: yellow;
+}
+img{
+    background:rgb(1, 18, 26, 0.767);
+}
+ol{
+    display:inline-block;
+    border:1px solid #ffffff;
+    padding:20px;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-weight:bold;
+}
+th{
+    font-size:50px;
+}
+ul{
+    border:1px solid #bdc005;
+}
+table{
+    margin:65px;
+}
+br{
+    background-color:rgb(1,18,26,);
+}
+p{
+    font-size:25px;
+}
